@@ -1,0 +1,41 @@
+body {
+	background-color: lightblue;
+}
+
+div {
+	border-width: 3px;
+	border-color: brown;
+	border-style: groove;
+	height: 70px;
+	width: 125px;
+}
+
+h1 {
+	color: darkblue;
+	text-align: center;
+	font-size: 50px;
+	font-family: Brush Script MT;
+}
+
+h2 {
+	color: darkblue;
+	text-align: center;
+	font-family: Comic Sans MS;
+	font-size: 30px;
+}
+
+.second {
+	font-size: 40px;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 5%;
+}
+
+.bottom {
+	border-width: 3px;
+	width: 400px; 
+}
